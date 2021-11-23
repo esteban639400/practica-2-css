@@ -1,0 +1,100 @@
+header#uno{
+    box-sizing: content-box;
+    background-color: #c7e9fb;
+    height: 65px;
+    width: auto;
+    
+    position: relative;
+    bottom: 14px;
+}
+header#uno h3{
+    text-align: center;
+    position: relative;
+    top: 17px;
+
+}
+hr.dos{
+    text-align: center;
+    width: 50%;
+    position: relative;
+    bottom: 14px;
+}
+hr#tres{
+    text-align: center;
+    width: 50%;
+}
+
+section#uno{
+    text-align: center;
+    position: relative;
+    bottom: 12px;
+}
+img.uno{
+    border: grey 4px solid;
+    height: 100px;
+    width: auto;
+}
+img.uno:hover{
+    opacity: 0.5;
+}
+img{   
+    height: 250px;
+    width: 290px;
+}
+
+header#dos {
+    text-align: center;
+    position: relative;
+    bottom: 15px;
+}
+header#dos span:hover{
+    color: black;
+    background-color: #c7e9fb;
+}
+hr.azul{
+    background-color: blue;
+    height: 20px;
+}
+
+section#dos{
+    box-sizing: content-box;
+    display: inline-block;
+    width: 790px;
+    height: 250px;
+    border: 2px black solid;
+    position: relative;
+    bottom: 24px;
+}
+section#dos div{
+   
+    box-sizing: border-box;
+   display: inline-block;
+   position: absolute;
+   
+}
+div#uno{
+    left: 250px;
+}
+div#dos{
+    left: 500px;
+}
+
+p{
+    color: blue;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 790px;
+    heigth: 250px
+    color: blue;
+    position: relative;
+    bottom: 288px;
+ 
+}
+section#tres{
+    background-color: #c7e9fb;
+    width: auto;
+    height: 255px;
+    position: relative;
+    bottom: 230px;
+    text-align: center;
+}
